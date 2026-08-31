@@ -6,7 +6,7 @@
 
 <p></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://roshzen-me.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://roshzen.in/)
 [![GitHub](https://img.shields.io/badge/GitHub-roshzxn1003-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117)](https://github.com/roshzxn1003)
 [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117)](mailto:arunroshan1003@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=roshzxn1003&label=Profile+Views&color=0D1117&style=for-the-badge)](https://github.com/roshzxn1003)
@@ -49,7 +49,7 @@
 ### `$ ls -la ~/projects`
 
 <pre>
-drwxr-xr-x  <a href="https://roshzen-me.vercel.app/">RoshZen-Portfolio/</a>       react · live        → dark cybertech portfolio, fully responsive
+drwxr-xr-x  <a href="https://roshzen.in/">RoshZen-Portfolio/</a>       react · live        → dark cybertech portfolio, fully responsive
 drwxr-xr-x  Zen-Coder-Learning-App/   py+js+react · concept → guided courses, quizzes, progress dashboard
 drwxr-xr-x  Python-Daily-Practice/    python · concept    → daily coding habit, XP + streaks + badges
 drwxr-xr-x  Love-Vault-App/           storage · concept   → private memory + gallery app, offline-first
